@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJoaoMiguel&show_icons=true&theme=dark)
 
 # Olá meu nome é joão Miguel Panhossi
 
