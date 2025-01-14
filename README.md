@@ -25,5 +25,5 @@ Estou sempre em busca de novos desafios para aplicar meus conhecimentos, aprende
 </div
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoMiguel&hide_progress=true)
 
