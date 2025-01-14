@@ -1,3 +1,5 @@
+
+
 # Olá meu nome é joão Miguel Panhossi
 
 Estudante de Programação | 
@@ -20,4 +22,8 @@ Estou sempre em busca de novos desafios para aplicar meus conhecimentos, aprende
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+</div
+
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
