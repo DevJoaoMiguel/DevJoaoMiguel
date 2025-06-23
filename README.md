@@ -13,6 +13,10 @@ Minhas habilidades também incluem o uso eficiente do pacote Office, que me ajud
 
 Estou sempre em busca de novos desafios para aplicar meus conhecimentos, aprender novas tecnologias e colaborar com outras pessoas para crescer cada vez mais no campo da tecnologia.
 
+PROEJETOS:
+<h1><b>SGA</b></h1>
+Sou responsavel pelo projeto SGA , um sistema de gestão acadêmica , com funcionalidades voltada para uma loja virtual para a escola , aluguéis de armarios fisicos com pagamento online, e uma aba de achados e perdidos para organização de itens achados , foi desenvolvido usando Node Js , com Express, javaScript , ejs , e ORV prisma, com conexão ao Mysql, e com uma API de pagamento Integrada (Mercado Pago).
+
 <div style = "display: inline_block">
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
